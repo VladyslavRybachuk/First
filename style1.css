@@ -1,0 +1,61 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
+}
+
+.main-theme {
+  display: flex;
+  width: auto;
+  background-color: #fff;
+  margin: auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  color: #fb6d3a;
+}
+.main {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  margin: 10px;
+  margin-left: 500px;
+}
+
+.themes {
+  display: flex;
+  width: auto;
+  background-color: #fff;
+  margin: auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  color: #fb6d3a;
+}
+
+.themes-view {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 55px;
+  margin: 10px;
+  margin-left: 550px;
+}
+
+/* Table*/
+.table {
+  padding: 100px 90px;
+  margin-left: 350px;
+}
+
+.numbers {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 55px;
+  margin: 10px;
+}
+
+.tables-all {
+  display: flex;
+  width: auto;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
